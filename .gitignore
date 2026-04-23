@@ -1,0 +1,17 @@
+# Build outputs
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compile database
+compile_commands.json
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
